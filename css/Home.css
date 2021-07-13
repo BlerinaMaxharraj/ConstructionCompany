@@ -1,5 +1,5 @@
 .u-section-1-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/construction.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/construction.jpg");
   background-position: 50% 50%;
 }
 
@@ -56,7 +56,7 @@
     font-size: 3rem;
   }
 }.u-section-1-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/construction1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/construction1.jpg");
   background-position: 50% 50%;
 }
 
@@ -113,7 +113,7 @@
     font-size: 3rem;
   }
 }.u-section-1-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/luke-besley-k5l-zbRSPds-unsplash.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../images/luke-besley-k5l-zbRSPds-unsplash.jpg");
   background-position: 50% 50%;
 }
 
@@ -199,7 +199,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: url("images/white-buildings-with-colorful-curtains-windows_181624-5741.jpg");
+  background-image: url("../images/white-buildings-with-colorful-curtains-windows_181624-5741.jpg");
   min-height: 589px;
   background-position: 50% 50%;
 }
@@ -240,7 +240,7 @@
 
 .u-section-2 .u-image-2 {
   min-height: 589px;
-  background-image: url("images/beautiful-architecture-building-taipei-city_74190-3106.jpg");
+  background-image: url("../images/beautiful-architecture-building-taipei-city_74190-3106.jpg");
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -393,7 +393,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 400px;
-  background-image: url("images/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg");
+  background-image: url("../images/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg");
   background-position: 50% 50%;
 }
 
